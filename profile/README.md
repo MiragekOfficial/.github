@@ -30,8 +30,7 @@ We work with:
 
 | Project Name | Description | Status |
 |--------------|-------------|--------|
-| Miragek Core | Our internal toolkit for rapid development | 🔄 In Progress |
-| Save Mirage | First indie title from Miragek Studios | 🎮 In Development |
+| [EqualFaith](https://equalfaith.org)   | Lastest on the map. You may wanna check | 🎮 active |
 | [Miragek Cloud](https://cloud.miragek.com) | One-click interface for everything you want | 🔄 In Progress |
 | [Others](https://github.com/orgs/miragekdev/repositories) | Check our repos to see open-sourced projects | 😍 Cooking |
 
